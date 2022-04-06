@@ -21,4 +21,6 @@
 ```
 
 ## 2) Big-O Gösterimi 
-
+```
+O(nlogn)
+```
